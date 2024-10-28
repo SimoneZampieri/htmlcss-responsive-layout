@@ -49,4 +49,18 @@
 
 /* Tablet */
 
-@media screen and()
+@media screen and (min-width: 768px){
+    #topbar{
+        display: block;
+    }
+
+    .recipe-origin{
+        display: inline-block;
+    }
+
+    .presentation img{
+        display: inline-block;
+        float: left;
+        margin-right: 5px;
+    }
+}
