@@ -43,6 +43,10 @@
         float: left;
         margin-right: 5px;
     }
+
+    .ads{
+        display: block;
+    }
 }
 
 /* /desktop */
@@ -62,5 +66,9 @@
         display: inline-block;
         float: left;
         margin-right: 5px;
+    }
+
+    .ads{
+        display: block;
     }
 }
