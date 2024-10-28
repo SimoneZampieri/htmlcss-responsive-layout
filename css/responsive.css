@@ -1,5 +1,7 @@
 /* Soluzione qui */
 
+
+/* Desktop */
 @media screen and (min-width: 992px){
     #topbar{
         display: block;
@@ -12,6 +14,7 @@
     .recipe-card{
         display: flex;
         width: 100%;
+        height: 100%;
     }
 
     .recipe-video{
@@ -30,4 +33,12 @@
     .social-networks .label{
         display: block;
     }
+
+    .presentation img{
+        display: inline-block;
+        float: left;
+        margin-right: 5px;
+    }
 }
+
+/* /desktop */
