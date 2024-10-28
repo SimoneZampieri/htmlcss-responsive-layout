@@ -1,1 +1,33 @@
 /* Soluzione qui */
+
+@media screen and (min-width: 992px){
+    #topbar{
+        display: block;
+    }
+
+    .recipe-title{
+        font-size: 30px;
+    }
+
+    .recipe-card{
+        display: flex;
+        width: 100%;
+    }
+
+    .recipe-video{
+        width: 70%;
+    }
+
+    .recipe-info{
+        width: 30%;
+    }
+
+    footer{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .social-networks .label{
+        display: block;
+    }
+}
