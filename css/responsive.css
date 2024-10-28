@@ -11,6 +11,10 @@
         font-size: 30px;
     }
 
+    .recipe-origin{
+        display: inline-block;
+    }
+
     .recipe-card{
         display: flex;
         width: 100%;
@@ -42,3 +46,7 @@
 }
 
 /* /desktop */
+
+/* Tablet */
+
+@media screen and()
