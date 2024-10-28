@@ -47,6 +47,10 @@
     .ads{
         display: block;
     }
+
+    .social-networks button{
+        padding: 10px 30px;
+    }
 }
 
 /* /desktop */
@@ -70,5 +74,9 @@
 
     .ads{
         display: block;
+    }
+
+    .social-networks button{
+        padding: 10px 30px;
     }
 }
